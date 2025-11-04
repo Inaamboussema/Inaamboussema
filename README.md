@@ -37,7 +37,6 @@ Curious, analytical, and results-oriented — always exploring new ways to make 
 
 
 ## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Inaam%20Boussemaa-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/inaam-boussemaa)
-[![Email](https://img.shields.io/badge/Email-i.boussemaa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:i.boussemaa@gmail.com)
+**Linkedin :** https://linkedin.com/in/inaam-boussemaa
+**Email :** mailto:inaam.boussemma@dotit-medu.com
 
