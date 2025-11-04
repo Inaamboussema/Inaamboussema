@@ -37,6 +37,6 @@ Curious, analytical, and results-oriented — always exploring new ways to make 
 
 
 ## 📫 Let's Connect
-**Linkedin :** https://linkedin.com/in/inaam-boussemaa
-**Email :** mailto:inaam.boussemma@dotit-medu.com
+🔹**Linkedin :** https://linkedin.com/in/inaam-boussemaa
+🔹**Email :** mailto:inaam.boussemma@dotit-medu.com
 
